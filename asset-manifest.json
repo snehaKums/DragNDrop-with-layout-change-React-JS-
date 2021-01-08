@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/DragNDrop-with-layout-change-React-JS-/static/css/main.39387976.chunk.css",
+    "main.js": "/DragNDrop-with-layout-change-React-JS-/static/js/main.70d6f02c.chunk.js",
+    "main.js.map": "/DragNDrop-with-layout-change-React-JS-/static/js/main.70d6f02c.chunk.js.map",
+    "runtime-main.js": "/DragNDrop-with-layout-change-React-JS-/static/js/runtime-main.22688822.js",
+    "runtime-main.js.map": "/DragNDrop-with-layout-change-React-JS-/static/js/runtime-main.22688822.js.map",
+    "static/js/2.11552b65.chunk.js": "/DragNDrop-with-layout-change-React-JS-/static/js/2.11552b65.chunk.js",
+    "static/js/2.11552b65.chunk.js.map": "/DragNDrop-with-layout-change-React-JS-/static/js/2.11552b65.chunk.js.map",
+    "index.html": "/DragNDrop-with-layout-change-React-JS-/index.html",
+    "static/css/main.39387976.chunk.css.map": "/DragNDrop-with-layout-change-React-JS-/static/css/main.39387976.chunk.css.map",
+    "static/js/2.11552b65.chunk.js.LICENSE.txt": "/DragNDrop-with-layout-change-React-JS-/static/js/2.11552b65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22688822.js",
+    "static/js/2.11552b65.chunk.js",
+    "static/css/main.39387976.chunk.css",
+    "static/js/main.70d6f02c.chunk.js"
+  ]
+}
