@@ -1,4 +1,4 @@
-# Drag and Drop withchange Layout 
+# Drag and Drop with change in Layout 
 
 This project is created using React JS(create-react-app).
 User can change/toggle the layout. It also have drag and drop functionality.
